@@ -202,3 +202,23 @@ footer {
     background: #FFF8F3;
     padding: 130px 200px;
 }
+
+.footer-column {
+    width: 50%;
+    padding-left: 100px;
+}
+
+.social-links a {
+    margin-left: 25px;
+}
+
+.contact input,
+textarea {
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    border: 0;
+    width: 100%;
+}
